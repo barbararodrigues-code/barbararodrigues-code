@@ -10,7 +10,7 @@ Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo so
 ---
 
 🛠️ I’m currently working on:  
-  Projetos de automação em **UiPath + Python**, versionamento em **Git/GitHub**,  
+  Projetos de automação em **UiPath + Python + Langflow**, versionamento em **Git/GitHub**,  
   e integrações com **Camunda, Langflow, Celonis, ProM e Disco**.  
 
 🌱 I’m currently learning:  
