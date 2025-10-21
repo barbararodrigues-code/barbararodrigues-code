@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Sou **Bárbara Rodrigues**, especialista em **hiperautomatização, processos inteligentes e integração de IA**.  
-Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo soluções em **UiPath, Python e Git/GitHub**, com foco em **eficiência, escalabilidade e autonomia operacional**.
+Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo soluções em **UiPath, Camunda, Python, ClickUp**, com foco em **eficiência, escalabilidade e autonomia operacional**.
 
 🔹 Transformo caos operacional em fluidez inteligente com a Mindflowtec.  
 🔹 Crio estruturas replicáveis que unem **automação, IA e governança**.  
