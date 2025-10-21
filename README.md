@@ -23,7 +23,7 @@ Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo so
   Expansão de boas práticas de **troubleshooting, testes automatizados e CI/CD para RPA**.  
 
 💬 Ask me about:  
-  **Hiperautomatização, Process Mining, Governança de Processos, AI aplicada a negócios**.  
+  **Hiperautomatização, Process Mining, Governança de Processos, AI aplicada a negócios, Arquitetura de Agentes**.  
 
 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/barbarasouzarodrigues) |  
