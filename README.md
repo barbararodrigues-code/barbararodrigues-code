@@ -10,11 +10,7 @@ Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo so
 ---
 
 🛠️ I’m currently working on:  
-  Projetos de automação em **UiPath + Python + Langflow**, versionamento em **Git/GitHub**,  
-  e integrações com **Camunda, Langflow, Celonis, ProM e Disco**.  
-
-🌱 I’m currently learning:  
-  Técnicas avançadas de **RPA, automação agêntica e arquitetura orientada a microsserviços**.  
+  Projetos de automação em **UiPath + Python + Camunda**, arquitetura orientada a microsserviços e integrações com **Langflow, ClickUp**.  
 
 🤝 I’m looking to collaborate on:  
   Projetos de **automação, IA aplicada, BPMN** e **orquestração de processos inteligentes**.  
