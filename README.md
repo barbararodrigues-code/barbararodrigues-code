@@ -13,10 +13,7 @@ Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo so
   Projetos de automação em **UiPath + Python + Camunda**, arquitetura orientada a microsserviços e integrações com **Langflow, ClickUp**.  
 
 🤝 I’m looking to collaborate on:  
-  Projetos de **automação, IA aplicada, BPMN, mineração de processos** e **orquestração de agentes autonomos**.  
-
-🤔 I’m looking for help with:  
-  Expansão de boas práticas de **troubleshooting, testes automatizados e CI/CD para RPA**.  
+  Projetos de **automação, IA aplicada, BPMN, mineração de processos** e **orquestração de agentes autonomos**.    
 
 💬 Ask me about:  
   **Hiperautomatização, Process Mining, Governança de Processos, AI aplicada a negócios, Bancos grafos, Bancos vetoriais**.  
