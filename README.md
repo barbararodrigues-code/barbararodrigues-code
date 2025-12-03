@@ -25,5 +25,3 @@ Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo so
 😄 Pronouns:  
   Ela / She  
 
-⚡ Fun fact:  
-
