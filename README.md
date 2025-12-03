@@ -26,6 +26,4 @@ Atuo no cruzamento entre **estratégia e execução técnica**, desenvolvendo so
   Ela / She  
 
 ⚡ Fun fact:  
-  Já transformei fluxos que geravam retrabalho de 70% em **operações totalmente fluidas**,  
-  e acredito que até um simples **processo de marketing** pode virar um **laboratório de IA**.  
 
